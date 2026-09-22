@@ -14,4 +14,4 @@
 This repository stores assignments, projects, and documentation for the CI001 course.
 
 ## GitHub Pages Site
-Visit my personal website: [https://<username>.github.io/](https://<username>.github.io/)
+Visit my personal website: https://github.com/tsukuyomi4753
